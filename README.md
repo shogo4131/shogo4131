@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Thank you for visiting my profile.
 
-I work as a software engineer in Japan.
+I work as a software engineer in Japan. 
 I have about one and a half years of work experience, and I am developing as a Front-End Engineer.
 
 
