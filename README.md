@@ -31,7 +31,7 @@ I have about one and a half years of work experience, and I am developing as a F
 - TypeScript
 - Java
 
-### Experience Framework
+### Experienced Framework
 - React
 - Angular
 - Express
