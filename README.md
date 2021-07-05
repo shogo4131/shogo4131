@@ -40,7 +40,6 @@ I have about one and a half years of work experience, and I am developing as a F
 
 I would like to interact with everyone in the world through programming.
 
-Nice to meet you.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shogo4131)](https://github.com/anuraghazra/github-readme-stats)
